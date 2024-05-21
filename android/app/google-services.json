@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "892561242305",
+    "project_id": "altar-social-app",
+    "storage_bucket": "altar-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892561242305:android:59d78b37e00cff9a81bc40",
+        "android_client_info": {
+          "package_name": "com.altar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHObACEb_7SYlZjMdZCmKP7hhEs_If9is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
